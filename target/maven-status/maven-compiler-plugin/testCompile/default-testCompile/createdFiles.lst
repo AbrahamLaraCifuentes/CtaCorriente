@@ -1,0 +1,7 @@
+com\platinum\test\TestConexion.class
+com\platinum\test\TestLogin.class
+com\platinum\test\TestEjecutivo.class
+stepdefinitions\LoginSteps.class
+runners\RunCucumberTest.class
+com\platinum\test\TestTransacciones.class
+com\platinum\test\TestCuentas.class

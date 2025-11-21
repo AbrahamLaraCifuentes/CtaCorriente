@@ -1,0 +1,7 @@
+com\platinum\servlets\LoginServlet.class
+com\platinum\servlets\RegistrarCuentaServlet.class
+com\platinum\servlets\RegistrarUsuarioServlet.class
+com\platinum\dao\Conexion.class
+com\platinum\servlets\RegistrarHoraVeterinariaServlet.class
+com\platinum\servlets\RegistrarTransferenciaServlet.class
+com\platinum\servlets\RegistrarPersonaServlet.class
